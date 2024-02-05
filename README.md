@@ -31,3 +31,12 @@ Have fun with it! :)
 
 - Single click to copy whatever text is displayed in the button (unless the text is "[Empty").
 - \[Command + Click] to paste whatever you have in your pastebin into the selected button (whatever button your mouse is hovering over).
+
+# Other:
+
+![bpicon (1)](https://github.com/alexyzha/Extended-Pastebin/assets/122637724/c6b1f080-7022-4d5a-a3c9-75041cff528c)
+
+This is the icon for the app, and I made it using [this onine tool.](https://onlinepngtools.com/convert-text-to-png) It's just a C (for **C**opy) followed by 2 superscript "+". This is because I love C++ 😩😩😩
+
+
+
