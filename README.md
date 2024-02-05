@@ -23,6 +23,7 @@ Have fun with it! :)
 - When the app is launched, you'll have 10 spaces, all "\[Empty]". If you click an empty button, nothing will be copied. You can, however, write over it.
 - The buttons will display the text you paste into them.
 - Any string longer than 25 characters will be truncated in the text preview, but you'll still copy the whole string when you click it.
+- The popover doesn't have the transient property, meaning that it will stay open until you click the app icon again. This is meant to facilitate copying multiple things from one page :)
 
 <img width="221" alt="Screenshot 2024-02-04 at 10 58 57 PM" src="https://github.com/alexyzha/Extended-Pastebin/assets/122637724/80a07fa7-fff8-43d1-860e-74cc23d7c587">
 
