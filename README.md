@@ -36,7 +36,7 @@ Have fun with it! :)
 
 ![bpicon (1)](https://github.com/alexyzha/Extended-Pastebin/assets/122637724/c6b1f080-7022-4d5a-a3c9-75041cff528c)
 
-This is the icon for the app, and I made it using [this onine tool.](https://onlinepngtools.com/convert-text-to-png) It's just a C (for <ins>**C**</ins>opy) preceeded by 2 superscript "+". This is because I love C++ 😩😩😩
+This is the icon for the app, and I made it using [this onine tool.](https://onlinepngtools.com/convert-text-to-png) It's just a C (for <ins>**C**</ins>opy) preceded by 2 superscript "+". This is because I love C++ 😩😩😩
 
 
 
