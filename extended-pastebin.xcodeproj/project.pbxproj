@@ -7,19 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		012DBDAB2B70B07F007F864B /* extended_pastebinApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012DBDAA2B70B07F007F864B /* extended_pastebinApp.swift */; };
 		012DBDAD2B70B07F007F864B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012DBDAC2B70B07F007F864B /* ContentView.swift */; };
 		012DBDAF2B70B081007F864B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 012DBDAE2B70B081007F864B /* Assets.xcassets */; };
 		012DBDB22B70B081007F864B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 012DBDB12B70B081007F864B /* Preview Assets.xcassets */; };
+		012DBDBA2B70B0CB007F864B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012DBDB92B70B0CB007F864B /* main.swift */; };
+		012DBDBC2B70B3E2007F864B /* Memoy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012DBDBB2B70B3E2007F864B /* Memoy.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		012DBDA72B70B07F007F864B /* extended-pastebin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "extended-pastebin.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		012DBDAA2B70B07F007F864B /* extended_pastebinApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extended_pastebinApp.swift; sourceTree = "<group>"; };
 		012DBDAC2B70B07F007F864B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		012DBDAE2B70B081007F864B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		012DBDB12B70B081007F864B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		012DBDB32B70B081007F864B /* extended_pastebin.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = extended_pastebin.entitlements; sourceTree = "<group>"; };
+		012DBDB92B70B0CB007F864B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		012DBDBB2B70B3E2007F864B /* Memoy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memoy.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +54,8 @@
 		012DBDA92B70B07F007F864B /* extended-pastebin */ = {
 			isa = PBXGroup;
 			children = (
-				012DBDAA2B70B07F007F864B /* extended_pastebinApp.swift */,
+				012DBDBB2B70B3E2007F864B /* Memoy.swift */,
+				012DBDB92B70B0CB007F864B /* main.swift */,
 				012DBDAC2B70B07F007F864B /* ContentView.swift */,
 				012DBDAE2B70B081007F864B /* Assets.xcassets */,
 				012DBDB32B70B081007F864B /* extended_pastebin.entitlements */,
@@ -139,8 +142,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				012DBDBC2B70B3E2007F864B /* Memoy.swift in Sources */,
 				012DBDAD2B70B07F007F864B /* ContentView.swift in Sources */,
-				012DBDAB2B70B07F007F864B /* extended_pastebinApp.swift in Sources */,
+				012DBDBA2B70B0CB007F864B /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,6 +283,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -306,6 +311,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
