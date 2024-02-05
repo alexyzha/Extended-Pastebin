@@ -8,13 +8,15 @@ Once you have it downloaded, this is the program you want to use. This is what i
 
 <img width="547" alt="Screenshot 2024-02-04 at 10 54 18 PM" src="https://github.com/alexyzha/Extended-Pastebin/assets/122637724/e11b76df-4451-4736-9da8-5d4e43e364bf">
 
+
 And this is what it looks like in finder:
 
 <img width="245" alt="Screenshot 2024-02-04 at 10 55 47 PM" src="https://github.com/alexyzha/Extended-Pastebin/assets/122637724/4233e313-63ed-4b5f-a02f-9696969e3c54">
 
+
 Have fun with it! :)
 
-If you're going to use it often, I recommend keeping it at dock. You can do this by dragging the app into dock manually, since it wont ever show the app as running in dock otherwise.
+> If you're going to use it often, I recommend keeping it at dock or somewhere that's easily accessible. You can do this by dragging the app into dock manually, since it won't ever show the app as running in dock otherwise.
 
 # About Extended Pastebin:
 
