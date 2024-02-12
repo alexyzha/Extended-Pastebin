@@ -32,6 +32,13 @@ struct ContentView: View {
             Divider()
                 .frame(width: 175)
                 .padding(.top, 3)
+            Button("Clear") {
+                memoy = ["[Empty]","[Empty]","[Empty]","[Empty]","[Empty]","[Empty]","[Empty]","[Empty]","[Empty]","[Empty]"];
+            }
+                .buttonStyle(BorderlessButtonStyle())
+            Divider()
+                .frame(width: 175)
+                .padding(.top, 3)
             Button("Quit") {
                 NSApplication.shared.terminate(nil)
             }
