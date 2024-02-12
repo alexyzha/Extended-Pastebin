@@ -1,36 +1,43 @@
 {
   "images" : [
     {
+      "filename" : "bpicon (7).png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "16x16"
     },
     {
+      "filename" : "bpicon (6) 1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "16x16"
     },
     {
+      "filename" : "bpicon (6).png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "32x32"
     },
     {
+      "filename" : "bpicon (5).png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "32x32"
     },
     {
+      "filename" : "bpicon (4).png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "128x128"
     },
     {
+      "filename" : "bpicon (3) 1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "128x128"
     },
     {
+      "filename" : "bpicon (3).png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
@@ -48,6 +55,7 @@
       "size" : "512x512"
     },
     {
+      "filename" : "bpicon (2).png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"
